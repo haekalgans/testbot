@@ -20,7 +20,7 @@ global.available = false //status online (online)
 // Other
 global.botname = "HAGAN BOT ×፝֟͜×" //namabot kalian
 global.ownername= "HAGAN ×፝֟͜×" //nama kalian
-global.myweb ="https://api-alphabot.herokuapp.com/" //bebas asal jan hapus
+global.myweb ="https://haganbot.herokuapp.com" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UC00_zirwkcaSAm8BUL-3tgw" //bebas asal jan hapus
 global.github = "https://github.com/haekalgans" //bebas
 global.email = "ahganahmaker6@gmail.com" //bebas
